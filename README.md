@@ -65,10 +65,10 @@ Implemente uma classe com o método main para testar o sistema:
 
 O que você deve entregar:<br>
 
-Resultado - Saída do Console:<br>
-![image](https://github.com/user-attachments/assets/8e2baa33-9dce-4a14-ae39-d38782cfbe50)
-
 - Os arquivos .java das quatro classes<br>
 - O código devidamente indentado e comentado<br>
-- A saída esperada no terminal com os testes realizados no main<br>
+- A saída esperada no terminal com os testes realizados no main<br><br>
+
+Resultado - Saída do Console:<br>
+![image](https://github.com/user-attachments/assets/8e2baa33-9dce-4a14-ae39-d38782cfbe50)
 
